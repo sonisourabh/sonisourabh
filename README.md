@@ -9,16 +9,7 @@
  <tr>
     <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sonisourabh&layout=compact&theme=city-lights&background=36363b00&hide_border=true&fire=yellow&border=36363b00" alt="sonisourabh" width="100%" />
  </tr>
- 
-<!--  STAT-1 -->
- <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=sonisourabh&show_icons=true&count_private=true&custom_title=Summary&layout=compact&theme=radical&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
- 
-<!--  STAT-2 -->
- <p align="center"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonisourabh&custom_title=Languages%20I%20have%20used&layout=compact&theme=radical&hide_border=true&hide_title=true" /> </p> 
-  <tr>
-   
- </tr>
-   
+    
 </table>
 
 ### Hi there 👋
