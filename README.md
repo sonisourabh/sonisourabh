@@ -16,7 +16,6 @@
 
 - 🔭 In case you are passionate about 3D
 - 👯 We may explore opportunities to collaborate
-- 💬 Check if I am recruiting 
 
 <!--
 **sonisourabh/sonisourabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
